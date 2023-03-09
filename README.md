@@ -1,2 +1,2 @@
-Hosted link :-weather-app-by-ashwinidhakne.netlify.app
+Hosted link :- https://weather-app-by-ashwinidhakne.netlify.app
 
